@@ -1,0 +1,7 @@
+{
+  "name": "ClipCraft AI",
+  "description": "AI-powered tool that converts long videos into viral-ready 9:16 vertical clips with smart reframing, high-retention hook detection, and animated captions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
